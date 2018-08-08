@@ -21,3 +21,7 @@ The theme of the GMTK Jam was _dual purpose design_; in other words, create a me
 ⋅⋅⋅ Sean O'Connor
 * Music
 ⋅⋅⋅ David Henderson
+
+![Main Menu](https://i.imgur.com/hlB5IQJ.png)
+
+![Gameplay](https://i.imgur.com/ryoAJyl.png)
