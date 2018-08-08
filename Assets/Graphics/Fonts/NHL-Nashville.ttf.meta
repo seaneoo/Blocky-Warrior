@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1402e4fb3656e8a49a52c4558ad0186f
+timeCreated: 1500061553
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: NHL Nashville
+  fontNames:
+  - NHL Nashville
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
